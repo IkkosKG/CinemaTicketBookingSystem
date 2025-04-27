@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cinema Ticket Booking System
 
 A modern, efficient cinema ticket booking system built with Go, MySQL, and a responsive web interface.
@@ -95,3 +96,7 @@ go test ./...
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# CinemaTicketBooking-System
+Created a Cinema ticket booking system using Go, HTML, CSS &amp; MySQL
+>>>>>>> 305d12eef99dae293612502f35fda6872454b986
